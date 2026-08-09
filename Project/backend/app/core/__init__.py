@@ -1,0 +1,3 @@
+"""
+Purpose: Core package initialization.
+"""

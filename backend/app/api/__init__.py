@@ -1,3 +1,0 @@
-"""
-Purpose: API package initialization.
-"""

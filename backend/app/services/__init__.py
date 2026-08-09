@@ -1,3 +1,0 @@
-"""
-Purpose: Services package initialization.
-"""

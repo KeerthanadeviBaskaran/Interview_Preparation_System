@@ -1,3 +1,0 @@
-"""
-Purpose: Database package initialization.
-"""

@@ -1,3 +1,0 @@
-"""
-Purpose: App package initialization.
-"""
